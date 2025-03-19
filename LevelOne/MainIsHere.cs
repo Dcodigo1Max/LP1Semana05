@@ -12,6 +12,7 @@ namespace LevelOne
 
 
             Console.WriteLine("Feature");
+            Console.WriteLine("Feature");
         }
     }
 }
