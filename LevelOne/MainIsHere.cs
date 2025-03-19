@@ -9,7 +9,7 @@ namespace LevelOne
             Console.WriteLine("Hello LP1!");
 
             Console.WriteLine("OtherNew");
-
+            Console.WriteLine("two prints");
 
             Console.WriteLine("Feature");
             Console.WriteLine("Feature");
